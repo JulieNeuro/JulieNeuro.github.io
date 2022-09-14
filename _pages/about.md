@@ -1,4 +1,12 @@
-A little about me
+---
+permalink: /
+title: "A little about me"
+excerpt: "About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+
 ======
 I am very interested in Biology, Medicine, and more particularly in Neurosciences. I would love to help in the better understanding of these fields and to do that, I started coding. I tried before different approaches to work in these fields, like rat experimentations but I really prefer coding. Then, I found out that informatics and artificial intelligence can also be powerful tools in order to better understand Life Sciences.
 ---
