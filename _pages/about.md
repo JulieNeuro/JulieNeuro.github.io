@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
--
+
 I am very interested in Biology, Medicine, and more particularly in Neurosciences. I would love to help in the better understanding of these fields and to do that, I started coding. I tried before different approaches to work in these fields, like rat experimentations but I really prefer coding. Then, I found out that informatics and artificial intelligence can also be powerful tools in order to better understand Life Sciences.
 -
 As a Machine Learning Engineer, I implement state of the art machine learning models (in python using pandas, numpy and scikit learn libraries) in order to predict the brain age and cognitive scores from anatomical brain mri as part of the thesis project of Iris Menu.
@@ -15,4 +15,4 @@ As a Machine Learning Engineer, I implement state of the art machine learning mo
 As a Data Engineer, I helped to design and construct data preprocessings and quality checks containers (https://github.com/neurospin-deepinsight/brainprep). I have never put a software in production, but I helped to put a web data exchange interface (based on the Nextcloud technology) in production (https://neurospin-cloud.cea.fr). 
 -
 As an assistant of the project manager, I’m currently working with a multicultural European team which involves to construct the specifications of the data sent by the providers and to exchange on some project-related issues. I also wrote some documentations for the “Neurospin Cloud” (url linked above) and all the standards operating procedures for multi modal data (neuroimaging, omics, actigraphy, smartphone, eCRF).
--
+
