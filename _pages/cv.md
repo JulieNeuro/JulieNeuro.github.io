@@ -16,7 +16,6 @@ Education
 
 Work experience
 ======
-in NeuroimagingatNeurospinCEA, in the .
 * 2019-2022: Data Scientist/Engineer
   * BAOBAB team (Building large instruments for neuroimaging: from population imaging to ultra-high magnetic fields), NeuroSpin CEA, Saclay
   * Duties included: 
