@@ -30,10 +30,11 @@ Skills
   * numpy
   * pandas
   * scikit-learn
-* Nextcloud
+* Web/Nextcloud
   * PHP
   * html/css
   * Nextcloud API
+  * Django
 * Container
   * docker
   * singularity
@@ -45,7 +46,14 @@ Skills
   * cat12
   * mriqc
   * fmriprep
+* Git
+* Linux
+* Windows
+* Basics
+  * C
+  * R
+  * Matlab
 
 Publications
 ======
-  <ul>https://www.researchgate.net/profile/Julie-Victor-2/research</ul>
+  https://www.researchgate.net/profile/Julie-Victor-2/research
